@@ -1,0 +1,14 @@
+[  
+    {"name":"vijayalaxmi", "age":25, "email":"vijayalaxmi1thota@gmail.com", "phonenumber": 7731936603, "DOB":"16/06/1996"},
+    {"name":"manideep", "age":28, "email":"manideep@gmail.com", "phonenumber": 1234567890,"DOB":"18/09/1992"},
+    {"name":"madhu", "age":23, "email":"madhu@gmail.com", "phonenumber": 2345678901,"DOB":"18/09/1992"},
+    {"name":"kundan", "age":17, "email":"kundan@gmail.com", "phonenumber": 3456789012,"DOB":"18/09/1992"},
+    {"name":"manvith", "age":16, "email":"manvith@gmail.com", "phonenumber": 4567890123,"DOB":"18/09/1992"},
+    {"name":"shreshta", "age":10, "email":"shreshta@gmail.com", "phonenumber": 5678901234,"DOB":"18/09/1992"},
+    {"name":"shreyas", "age":15, "email":"shreyas@gmail.com", "phonenumber": 6789012345,"DOB":"18/09/1992"},
+    {"name":"roop", "age":26, "email":"roop@gmail.com", "phonenumber": 7890123456,"DOB":"18/09/1992"},
+    {"name":"naveena", "age":25, "email":"naveena@gmail.com", "phonenumber": 8901234567,"DOB":"18/09/1992"},
+    {"name":"manoj", "age":30, "email":"manoj@gmail.com", "phonenumber": 9012345678,"DOB":"18/09/1992"},
+    {"name":"Anupama", "age":40, "email":"anupama@gmail.com", "phonenumber": 10123456789,"DOB":"18/09/1992"},
+    {"name":"Aruna", "age":44, "email":"aruna@gmail.com", "phonenumber": 20123456789,"DOB":"18/09/1992"}
+]

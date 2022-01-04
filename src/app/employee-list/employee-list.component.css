@@ -1,0 +1,59 @@
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #070505;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+    .side{
+    
+     
+      display: inline-block;
+    
+      
+    }
+    
+    .form-group{
+      margin-left: 5%;
+      margin-right: 5%;
+      display: inline-block;
+      
+  }
+  .deleteButton {
+    background: transparent;
+    border: 1px solid #f00;
+    border-radius: 2em;
+    color: #f00;
+    display: inline-block;
+    font-size: 12px;
+    height: 20px;
+    line-height: 2px;
+    margin: 0 0 8px;
+    padding: 0;
+    text-align: center;
+    width: 20px;
+    }
+    .addButton {
+      background: transparent;
+      border: 1px solid rgb(0, 255, 55);
+      border-radius: 2em;
+      color: rgb(0, 255, 55);
+      display: inline-block;
+      font-size: 12px;
+      height: 20px;
+      line-height: 2px;
+      margin: 0 0 8px;
+      padding: 0;
+      text-align: center;
+      width: 20px;
+      }
+  

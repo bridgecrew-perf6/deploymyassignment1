@@ -1,0 +1,47 @@
+
+
+
+
+
+
+<form  class=form-group *ngFor ="let employee of ParentData"> 
+    <div class="side">
+        <label>Name: </label>
+        <input type="text" value="{{employee.name}}">
+    </div>
+    
+
+    <div class="side">
+        <label>Age: </label>
+        <input type="text" value="{{employee.age}}">
+    </div>
+
+    
+
+    <div class="side">
+        <label>Email: </label>
+        <input type="email" value="{{employee.email}}">
+    </div>
+    
+
+    <div class="side">
+        <label>Phonenumber: </label>
+        <input type="text" value="{{employee.phonenumber}}">
+    </div>
+    
+    <div class="side">
+        <label>Date of Birth: </label>
+        <input type="text" value="{{employee.DOB}}">
+    </div>
+    
+   <div class="side">
+      <label> Select you gender</label>
+      <select name="gender">
+	   
+	   <option value="{{employee.gender}}">Male</option>
+	   <option value="{{employee.gender}}">Female</option>
+	   
+      </select>
+   </div> 
+   
+<hr/>   
