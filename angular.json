@@ -7,6 +7,7 @@
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
+          //manideep edited this file
           "strict": true
         }
       },
